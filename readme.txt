@@ -4,3 +4,4 @@ first feature branch
 first feature branch
 second feature commit
 first commit on feature 2
+second commit on feature 2
